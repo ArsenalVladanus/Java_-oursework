@@ -1,0 +1,15 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¯º¨šúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­–ÒÁøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‡ëäûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬˜·˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•ŒÀÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô‡ºÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËƒÈøÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(È„r8æ¿ôò‰0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¨¢÷°8İÉùò‰0
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¡ÕúÏûÿÿÿÿ
